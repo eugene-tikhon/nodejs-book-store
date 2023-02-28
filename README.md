@@ -1,4 +1,4 @@
-# nodejs-book-store
+### Node.js book store
 
 ##
 `npm install`
